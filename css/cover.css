@@ -1,0 +1,12 @@
+/*
+ * Cover
+ */
+.indexCover {
+  padding: 0 1.5rem;
+}
+.indexCover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: 700;
+}
+
+
